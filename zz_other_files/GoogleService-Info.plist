@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>793391148817-not8mvldsa98894m06ca89kg8bq3rshu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.793391148817-not8mvldsa98894m06ca89kg8bq3rshu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>793391148817-uu5btbatlrrafu8sr4apkvu3mlf0csnt.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCuWgiXOZ67iODKvN7PPnUD7qbA9nILYEg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>793391148817</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.emstell.Everything.Woman</string>
+	<key>PROJECT_ID</key>
+	<string>everything-woman-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>everything-woman-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:793391148817:ios:62d990d286ef60467c66b0</string>
+</dict>
+</plist>
