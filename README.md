@@ -1,16 +1,31 @@
-# darzi_seller
+## change url in lib/WebViewScreen.dart
+## change app name in android/app/src/main/AndroidManifest.xml
+### manifest -> application -> android:label
+## change app name in [pubspec.yaml](pubspec.yaml)
+### name and description
+## change app name in [main.dart](lib%2Fmain.dart)
+###  title
+## change app name in [Info.plist](ios%2FRunner%2FInfo.plist)
+###  CFBundleDisplayName
 
-Darzi Seller
+## open ios module in xcode   [ios](ios)
+###  change display name , change bundle identifier, change Team
 
-## Getting Started
+## change app icon ![app-icon.png](assets%2Fimages%2Fapp-icon.png)
+###  generate android/ios  app icons bu running the command in terminal
+###  flutter pub run flutter_launcher_icons
 
-This project is a starting point for a Flutter application.
+## change Splash in xcode [LaunchScreen.storyboard](ios%2FRunner%2FBase.lproj%2FLaunchScreen.storyboard)
+## change android splash ![splash.png](android%2Fapp%2Fsrc%2Fmain%2Fres%2Fdrawable-xxxhdpi%2Fsplash.png)
+## change android application ID in [build.gradle](android%2Fapp%2Fbuild.gradle)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+        
+
+
+
