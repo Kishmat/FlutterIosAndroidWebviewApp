@@ -11,12 +11,12 @@
 ## open ios module in xcode   [ios](ios)
 ###  change display name , change bundle identifier, change Team
 
-## change app icon ![app-icon.png](assets%2Fimages%2Fapp-icon.png)
+## change app icon  assets/images/app-icon.png
 ###  generate android/ios  app icons bu running the command in terminal
 ###  flutter pub run flutter_launcher_icons
 
 ## change Splash in xcode [LaunchScreen.storyboard](ios%2FRunner%2FBase.lproj%2FLaunchScreen.storyboard)
-## change android splash ![splash.png](android%2Fapp%2Fsrc%2Fmain%2Fres%2Fdrawable-xxxhdpi%2Fsplash.png)
+## change android splash android/app/src/main/res/drawable-xxxhdpi/splash.png
 ## change android application ID in [build.gradle](android%2Fapp%2Fbuild.gradle)
 
 
